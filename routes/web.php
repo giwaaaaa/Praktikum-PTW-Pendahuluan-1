@@ -18,17 +18,17 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/home', function () {
-    return view('home');
+    return view('0029home');
 });
 
 Route::get('/artikel', function () {
-    return view('artikel');
+    return view('0029artikel');
 });
 
 Route::get('/kontak', function () {
-    return view('kontak');
+    return view('0029kontak');
 });
 
 Route::get('/layout', function () {
-    return view('layout');
+    return view('0029layout');
 });
