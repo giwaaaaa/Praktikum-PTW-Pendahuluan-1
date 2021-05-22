@@ -1,5 +1,5 @@
 @extends('layout')
-@section('kontak','Contact Us')
+@section('kontak0029','Contact Us')
 @section('isi')
 <br>
 <center><img src="{{url('img/giwa.jpg')}}" style="width:185px;height:250px;"></center>

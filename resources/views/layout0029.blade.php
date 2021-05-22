@@ -14,20 +14,18 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="{{url('home')}}">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{url('artikel')}}">Artikel</a>
+          <a class="nav-link" href="{{url('artikel0029')}}">Artikel</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{url('kontak')}}">Contact Us</a>
+          <a class="nav-link" href="{{url('kontak0029')}}">Contact Us</a>
         </li>
         </li>
       </ul>
-    </div>
   </div>
 </nav>
     @yield('isi')

@@ -1,5 +1,5 @@
 @extends('layout')
-@section('artikel','Artikel')
+@section('artikel0029','Artikel')
 @section('isi')
 
 <h1><center><b>BAHASA PEMROGRAMAN</b></center></h1>

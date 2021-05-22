@@ -1,5 +1,5 @@
 @extends('layout')
 @section('home','Home')
-@section('isi')
+@section('')
 Ini home
 @endsection
