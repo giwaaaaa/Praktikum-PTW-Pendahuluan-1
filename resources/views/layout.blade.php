@@ -19,10 +19,10 @@
           <a class="nav-link active" aria-current="page" href="{{url('home')}}">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{url('artikel0029')}}">Artikel</a>
+          <a class="nav-link" href="{{url('artikel')}}">Artikel</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{url('kontak0029')}}">Contact Us</a>
+          <a class="nav-link" href="{{url('kontak')}}">Contact Us</a>
         </li>
         </li>
       </ul>
